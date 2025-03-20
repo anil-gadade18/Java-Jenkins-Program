@@ -7,6 +7,7 @@ public class Main {
             System.out.println("Changing in code to test commit");
             System.out.println("Added one file to check changes has refected or not!!");
             System.out.println("Hello Guys!, I hope you are doing well!!!");
+            Student student = new Student();
         }
 
 }
