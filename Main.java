@@ -4,6 +4,7 @@ public class Main {
             
             System.out.println("Learing Jenkins for CI/CD");
             System.out.println("Welcome to Jenkins Program!!");
+            System.out.println("Changing in code to test commit");
         }
 
 }
